@@ -16,6 +16,11 @@ To run this project locally, follow these steps:
 ```cd webgl-cubes```
 3. Open the `index.html` file in a web browser that supports WebGL.
 
+## Alternative Installation
+
+Option 1: You can simply double-click on the index.html file and it will open in your default web browser.
+Option 2: Alternatively, you can copy the contents of index.html and paste it into a new HTML file in a desired location on your computer. Then, open that HTML file in a web browser.
+
 ## Usage
 
 Once you have the project running, you can perform the following actions:
